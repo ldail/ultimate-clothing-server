@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "ultimate clothing server",
   "main": "src/server.js",
+  "engines": {
+    "node": "13.5.0"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
