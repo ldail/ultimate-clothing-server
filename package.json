@@ -2,7 +2,7 @@
   "name": "ultimate-server",
   "version": "1.0.0",
   "description": "ultimate clothing server",
-  "main": "src/server.js",
+  "main": "index.js",
   "engines": {
     "node": "13.5.0"
   },
